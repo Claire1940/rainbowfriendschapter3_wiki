@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Rainbow Friends Capítulo 3 Wiki - Lançamento, Notícias e Guias",
+      "description": "Acompanhe o status de lançamento de Rainbow Friends Capítulo 3, notícias oficiais, trailers, personagens, teorias e guias de sobrevivência completos do Capítulo 1 e Capítulo 2.",
+      "keywords": "Rainbow Friends Capítulo 3, Roblox, data de lançamento, trailer, personagens, guia, notícias",
+      "ogTitle": "Rainbow Friends Capítulo 3 Wiki - Lançamento, Notícias e Guias",
+      "ogDescription": "Acompanhe o status de lançamento de Rainbow Friends Capítulo 3, notícias oficiais, trailers, personagens, teorias e guias de sobrevivência completos do Capítulo 1 e Capítulo 2.",
+      "twitterTitle": "Rainbow Friends Capítulo 3 Wiki - Lançamento, Notícias e Guias",
+      "twitterDescription": "Acompanhe o status de lançamento de Rainbow Friends Capítulo 3, notícias oficiais, trailers, personagens, teorias e guias de sobrevivência completos do Capítulo 1 e Capítulo 2."
+    }
+  },
   "nav": {
     "release": "Lançamento",
     "status": "Status",
@@ -7,5 +18,669 @@
     "locations": "Locais",
     "guide": "Guia",
     "story": "História"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Alterar Idioma",
+    "switchTheme": "Alterar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Mascot Horror Co-op no Roblox",
+    "title": "Rainbow Friends Capítulo 3 Wiki",
+    "description": "Acompanhe as notícias oficiais do Capítulo 3 enquanto explora os personagens de Rainbow Friends, monstros, pistas da história, mecânicas de esconderijo, mapas, finais e guias de sobrevivência.",
+    "keywords": "Rainbow Friends Capítulo 3, Roblox, data de lançamento, trailer, personagens, monstros, história, teorias, walkthrough",
+    "getFreeCodesCTA": "Verificar Status do Capítulo 3",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "4,92B+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "3,65M+",
+        "label": "Favoritos"
+      },
+      "stat3": {
+        "value": "8,9K",
+        "label": "Jogadores Ativos"
+      },
+      "stat4": {
+        "value": "2",
+        "label": "---"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Capítulos Oficiais",
+    "description": "Rainbow Friends Capítulo 3"
+  },
+  "tools": {
+    "title": "Acompanhe o lançamento de Rainbow Friends Capítulo 3 enquanto explora monstros, mecânicas de esconderijo, mapas, pistas da história e guias de sobrevivência completos dos Capítulos 1 e 2.",
+    "titleHighlight": "Rainbow Friends Capítulo 3",
+    "subtitle": "Guias da Wiki",
+    "cards": [
+      {
+        "icon": "Tudo o que você precisa para acompanhar o lançamento de Rainbow Friends Capítulo 3, monstros, mapas, história e guias de sobrevivência.",
+        "title": "Calendário e Relógio",
+        "description": "Data de Lançamento"
+      },
+      {
+        "icon": "Status oficial de lançamento do Capítulo 3 e informações da wishlist",
+        "title": "Ticket",
+        "description": "Códigos"
+      },
+      {
+        "icon": "Status atual dos códigos e futuros canais de recompensa",
+        "title": "Livro Aberto",
+        "description": "Guia para Iniciantes"
+      },
+      {
+        "icon": "Trabalho em equipe, objetivos, esconderijos e o básico da sobrevivência",
+        "title": "Mapa",
+        "description": "Walkthrough"
+      },
+      {
+        "icon": "Rota do capítulo, objetivos e status das fases",
+        "title": "Caveira",
+        "description": "Tier list de Monstros"
+      },
+      {
+        "icon": "Blue, Green, Orange, Purple e Red ranqueados",
+        "title": "Bússola",
+        "description": "Mapa e Localizações"
+      },
+      {
+        "icon": "Rotas de Pirate Ship, Sea map e Odd World",
+        "title": "Claquete",
+        "description": "História e Final"
+      },
+      {
+        "icon": "Linha do tempo da história, Missing Colors e finais",
+        "title": "Jornal",
+        "description": "Atualizações e Notícias"
+      }
+    ]
+  },
+  "modules": {
+    "releaseDateAndWishlist": {
+      "title": "Trailers oficiais, revelações e notas de atualização",
+      "subtitle": "Data de Lançamento de Rainbow Friends Capítulo 3",
+      "intro": "Confira o status oficial de lançamento do Capítulo 3, disponibilidade no Roblox e informações de wishlist da Roy & Charcle.",
+      "items": [
+        {
+          "label": "Rainbow Friends Capítulo 3 não possui atualmente uma data de lançamento anunciada ou uma página oficial de wishlist. A única experiência oficial no Roblox é Rainbow Friends, publicada pela comunidade Roy & Charcle.",
+          "value": "Data de Lançamento",
+          "description": "Não anunciada"
+        },
+        {
+          "label": "Roy & Charcle não publicaram uma data de lançamento para Rainbow Friends Capítulo 3.",
+          "value": "Janela de Lançamento",
+          "description": "Não anunciada"
+        },
+        {
+          "label": "Nenhum mês, temporada ou ano oficial foi atribuído ao Capítulo 3.",
+          "value": "Sem lista de desejos oficial",
+          "description": "Atualmente não existe uma página de lista de desejos do Capítulo 3 conectada à experiência oficial do Roblox ou às contas dos desenvolvedores."
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox",
+          "description": "Rainbow Friends está disponível via Roblox em plataformas suportadas pelo aplicativo Roblox."
+        },
+        {
+          "label": "Experiência Oficial",
+          "value": "Rainbow Friends",
+          "description": "O jogo oficial é publicado por Roy & Charcle e utiliza o Roblox place ID 7991339063."
+        },
+        {
+          "label": "Capítulos Jogáveis",
+          "value": "Capítulo 1 e Capítulo 2",
+          "description": "A experiência atual contém dois capítulos jogáveis, cada um dividido em cinco estágios baseados em objetivos."
+        },
+        {
+          "label": "Jogos do Capítulo 3 no Roblox",
+          "value": "Experiências criadas por fãs",
+          "description": "Jogos do Capítulo 3 publicados por outros criadores que não Roy & Charcle não fazem parte do lançamento oficial de Rainbow Friends."
+        },
+        {
+          "label": "Datas de Lançamento Falsas",
+          "value": "Não oficial",
+          "description": "Diversas datas de lançamento do Capítulo 3 amplamente compartilhadas são criadas por fãs e não são anúncios oficiais de Rainbow Friends Capítulo 3."
+        }
+      ]
+    },
+    "codes": {
+      "title": "Códigos de Rainbow Friends Capítulo 3",
+      "subtitle": "Veja o status atual dos códigos e os locais oficiais onde futuras recompensas de Rainbow Friends podem ser anunciadas.",
+      "intro": "Rainbow Friends não oferece atualmente um sistema público de resgate de códigos. Roy & Charcle não lançaram nenhum código do Capítulo 3, seja ativo ou expirado.",
+      "items": [
+        {
+          "code": "Sem códigos ativos",
+          "status": "Indisponível",
+          "reward": "Nenhum",
+          "description": "Não há códigos oficiais de Rainbow Friends Capítulo 3 disponíveis para resgatar."
+        },
+        {
+          "code": "Sem códigos expirados",
+          "status": "Arquivo vazio",
+          "reward": "Nenhum",
+          "description": "Roy & Charcle não publicaram um conjunto anterior de códigos promocionais do Capítulo 3."
+        },
+        {
+          "code": "Menu de resgate",
+          "status": "Não disponível",
+          "reward": "Nenhum",
+          "description": "A experiência oficial de Rainbow Friends não inclui atualmente um menu público para inserção de códigos."
+        },
+        {
+          "code": "Anúncios oficiais",
+          "status": "Monitorar",
+          "reward": "Atualizações de códigos",
+          "description": "Futuros recursos de códigos ou recompensas seriam anunciados através da experiência oficial no Roblox, na comunidade ou nas redes sociais dos desenvolvedores."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "title": "Guia para Iniciantes de Rainbow Friends Capítulo 3",
+      "subtitle": "Aprenda as principais habilidades de trabalho em equipe, coleta de objetivos, esconderijo e sobrevivência usadas em toda a experiência oficial de Rainbow Friends.",
+      "intro": "Rainbow Friends é um jogo de terror cooperativo no qual os jogadores completam tarefas de coleta enquanto evitam monstros. Esses fundamentos dos capítulos atuais fornecem a preparação essencial para o próximo capítulo oficial.",
+      "steps": [
+        {
+          "title": "Junte-se à Experiência Oficial",
+          "description": "Abra Rainbow Friends de Roy & Charcle usando o place ID do Roblox 7991339063. Evite experiências de Capítulo 3 com nomes semelhantes publicadas por criadores não relacionados.",
+          "tip": "Confirme se o criador exibido abaixo do título do jogo é Roy & Charcle."
+        },
+        {
+          "title": "Leia o Objetivo Atual",
+          "description": "Cada estágio dá ao grupo uma tarefa de coleta ou entrega. Verifique o item necessário e o total restante antes de sair da área inicial.",
+          "tip": "Procure em uma seção diferente do mapa quando vários colegas de equipe já estiverem seguindo a mesma rota."
+        },
+        {
+          "title": "Colete e Devolva Itens",
+          "description": "Pegue itens de objetivo encontrados pelo mapa e leve-os de volta ao ponto de coleta exigido. O jogo permite que os jogadores carreguem vários itens descobertos.",
+          "tip": "Devolva itens valiosos quando uma rota segura estiver disponível, em vez de segurar tudo até o fim."
+        },
+        {
+          "title": "Use sua Caixa com Cuidado",
+          "description": "Caixas de papelão e outros objetos de esconderijo podem ocultar os jogadores quando os monstros estão por perto, mas se esconder não impede todos os inimigos ou todos os ataques.",
+          "tip": "Crie distância antes de se esconder e esteja pronto para se mover quando um monstro continuar se aproximando."
+        },
+        {
+          "title": "Aprenda a Regra de Cada Monstro",
+          "description": "Blue pode seguir os jogadores através de portas normais, Green tem um longo alcance, Orange é extremamente rápido e Purple ataca perto de dutos de ventilação. O Chapter 2 também adiciona Yellow, que carrega os jogadores para longe, e Cyan, que pode perseguir os jogadores contornando obstáculos.",
+          "tip": "Observe o ambiente e ouça os movimentos antes de entrar em corredores estreitos."
+        },
+        {
+          "title": "Seja Útil para a Equipe",
+          "description": "Dividam-se o suficiente para cobrir o mapa, mas acompanhem os colegas de equipe próximos e as rotas concluídas. Um grupo coordenado termina os objetivos mais rápido e passa menos tempo exposto aos monstros.",
+          "tip": "Não leve um monstro em perseguição em direção aos colegas de equipe que estão trabalhando no ponto de entrega de itens."
+        }
+      ]
+    },
+    "walkthrough": {
+      "title": "Detonado de Rainbow Friends Capítulo 3",
+      "subtitle": "Siga a rota oficial atual do jogo e veja quais objetivos, quebra-cabeças e checkpoints do Capítulo 3 estão disponíveis.",
+      "intro": "O Capítulo 3 não está disponível para jogar no momento na experiência oficial de Rainbow Friends, portanto, nenhuma rota oficial de objetivos do Capítulo 3 foi publicada. O jogo atual contém o Capítulo 1 e o Capítulo 2, com cinco estágios em cada capítulo.",
+      "steps": [
+        {
+          "title": "Área Inicial do Capítulo 3",
+          "description": "Nenhuma área inicial oficial do Capítulo 3, entrada de mapa ou opção de seleção de capítulo está disponível no momento.",
+          "status": "Não disponível"
+        },
+        {
+          "title": "Objetivos e Itens Necessários",
+          "description": "Os nomes dos itens do Capítulo 3, totais de coleta, pontos de entrega e requisitos de quebra-cabeças não foram adicionados à experiência oficial.",
+          "status": "Não disponível"
+        },
+        {
+          "title": "Mapa e Rotas Seguras",
+          "description": "Nenhum layout de mapa oficial do Capítulo 3, lista de checkpoints, rota de esconderijo ou caminho seguro foi publicado.",
+          "status": "Não disponível"
+        },
+        {
+          "title": "Encontros com Monstros",
+          "description": "O elenco confirmado nos dois primeiros capítulos inclui Blue, Green, Orange, Purple, Yellow e Cyan. As regras de encontro do Capítulo 3 não fazem parte do jogo no momento.",
+          "status": "Elenco atual"
+        },
+        {
+          "title": "Estrutura Jogável Atual",
+          "description": "O Capítulo 1 usa cinco Nights e o Capítulo 2 usa cinco Hours. Os jogadores completam objetivos em grupo, evitam os Rainbow Friends e chegam à sequência de fuga do capítulo.",
+          "status": "Jogável agora"
+        },
+        {
+          "title": "Rota Oficial do Capítulo 3",
+          "description": "A rota completa começará com a atualização oficial do Roblox e cobrirá cada objetivo, quebra-cabeça, item necessário, checkpoint, perseguição e final em ordem.",
+          "status": "Aguardando lançamento"
+        }
+      ]
+    },
+    "monsterTierList": {
+      "title": "Tier List de Monstros de Rainbow Friends Capítulo 3",
+      "subtitle": "Compare o elenco do Capítulo 3 por pressão de perseguição, estilo de detecção, sinais de alerta e a resposta mais segura.",
+      "intro": "Esta tier list de preparação classifica os personagens nomeados no material de revelação do Capítulo 3. Os conselhos de fuga usam o comportamento estabelecido no jogo dos capítulos lançados de Rainbow Friends.",
+      "items": [
+        {
+          "tier": "S",
+          "name": "Orange",
+          "danger": "Extremo",
+          "speed": "Muito rápido durante as corridas de rota",
+          "detection": "Ameaça de corrida baseada em rota",
+          "warningSigns": "Um sinal de alarme e um caminho laranja brilhante anunciam a corrida.",
+          "behavior": "Orange cruza o mapa em alta velocidade ao longo de uma rota marcada e pune os jogadores que permanecem no caminho.",
+          "counterStrategy": "Saia completamente da trilha laranja, espere a corrida terminar e atravesse apenas depois que a rota estiver livre."
+        },
+        {
+          "tier": "S",
+          "name": "Green",
+          "danger": "Extremo",
+          "speed": "Movimento lento com amplo alcance",
+          "detection": "Detecção de contato às cegas",
+          "warningSigns": "Passos barulhentos e rangendo e braços longos entrando em um corredor.",
+          "behavior": "Green não consegue ver os jogadores, mas o contato direto é letal e a caixa não protege o jogador que entra em seu alcance.",
+          "counterStrategy": "Mantenha uma grande distância, pare nas esquinas para ouvir e use outra rota em vez de se espremer por seus braços."
+        },
+        {
+          "tier": "A",
+          "name": "Blue",
+          "danger": "Alto",
+          "speed": "Velocidade de perseguição constante",
+          "detection": "Visão direta e perseguição a curta distância",
+          "warningSigns": "Passos pesados, sons vocais e Blue entrando na mesma rota.",
+          "behavior": "Blue patrulha rotas abertas e persegue jogadores expostos. Esconder-se na caixa no momento certo interrompe a maioria das perseguições padrão.",
+          "counterStrategy": "Quebre a linha de visão, use a caixa antes que Blue chegue a curta distância e saia da caixa apenas depois que seus passos se afastarem."
+        },
+        {
+          "tier": "B",
+          "name": "Purple",
+          "danger": "Alto dentro de zonas de perigo",
+          "speed": "Baseado em emboscada",
+          "detection": "Dutos designados, covis e armadilhas ambientais",
+          "warningSigns": "Olhos visíveis, mãos ou uma área de perigo ativa ao redor da posição de Purple.",
+          "behavior": "Purple controla partes específicas do mapa em vez de fazer uma rota de patrulha normal.",
+          "counterStrategy": "Siga a borda segura da rota marcada, evite o espaço de emboscada ativa e nunca corte caminho diretamente pela zona de Purple."
+        },
+        {
+          "tier": "C",
+          "name": "Red",
+          "danger": "Estratégico",
+          "speed": "Sem perseguição padrão de patrulha livre",
+          "detection": "Eventos da história, armadilhas e encontros controlados",
+          "warningSigns": "Cutscenes, objetivos alterados, saídas bloqueadas e maquinários recém-ativados.",
+          "behavior": "Red conduz a história e cria situações perigosas em vez de usar o comportamento de patrulha regular dos outros Friends.",
+          "counterStrategy": "Leia a instrução do objetivo, inspecione as rotas alteradas e espere que o próximo perigo comece depois que Red aparecer."
+        }
+      ]
+    },
+    "mapAndLocations": {
+      "title": "Mapa e locais de Rainbow Friends Capítulo 3",
+      "subtitle": "Explore o Pirate Ship, o Sea map e as rotas do Capítulo 3 conectadas ao Odd World.",
+      "intro": "O Capítulo 3 muda a fuga para uma ramificação marítima do Odd World centrada em um Pirate Ship e em um Sea map escuro. Estes cartões de localização organizam os principais espaços mostrados no teaser, trailer e material da trilha sonora.",
+      "items": [
+        {
+          "name": "O Pirate Ship",
+          "type": "Cenário principal do capítulo",
+          "features": "Um grande ambiente de navio que combina rotas externas expostas com passagens internas fechadas.",
+          "routeUse": "Trate o navio como o ponto central de navegação e aprenda cada portal, conexão de escada e caminho de retorno.",
+          "survivalTip": "Mantenha uma rota de fuga aberta antes de entrar em uma seção estreita, especialmente quando Blue ou Green estiverem por perto."
+        },
+        {
+          "name": "Sea Map",
+          "type": "Ambiente marítimo",
+          "features": "Água escura, atmosfera de baixa visibilidade e o cenário tenso representado pela trilha sonora oficial do Sea.",
+          "routeUse": "Use grandes estruturas de navios e luzes fixas como pontos de referência em vez de confiar em caminhos à beira-água parecidos.",
+          "survivalTip": "Evite parar ao lado de becos sem saída e mantenha espaço suficiente para se afastar de uma rota de perseguição marcada."
+        },
+        {
+          "name": "Rotas do Convés Superior",
+          "type": "Zona de travessia aberta",
+          "features": "Linhas de visão amplas, cruzamentos expostos e múltiplas abordagens ao redor do exterior do navio.",
+          "routeUse": "Use a visibilidade aberta para avistar Blue ou uma rota de Orange cedo, e então mova-se em direção à conexão interna mais próxima.",
+          "survivalTip": "Atravesse o espaço do convés exposto rapidamente e não fique encurralado no meio de uma rota de corrida marcada."
+        },
+        {
+          "name": "Interior do Navio",
+          "type": "Zona de objetivo fechada",
+          "features": "Corredores apertados, salas conectadas, curvas cegas e loops curtos de fuga dentro do Pirate Ship.",
+          "routeUse": "Memorize um loop que retorne a uma sala maior e observe quais curvas são estreitas demais para passar por Green.",
+          "survivalTip": "Ouça antes de virar uma curva e evite entrar em uma sala que tenha apenas uma saída utilizável."
+        },
+        {
+          "name": "Conexão com o Odd World",
+          "type": "Rota da história",
+          "features": "A revelação traz os jogadores de volta ao Odd World enquanto move a história da fuga do Capítulo 2 em direção ao navio e ao mar.",
+          "routeUse": "Use placas, pontos de referência temáticos e marcadores de objetivo para acompanhar como cada área do navio se conecta de volta ao cenário maior do Odd World.",
+          "survivalTip": "Lembre-se do último ponto de referência seguro após cada objetivo para que uma perseguição não o force a ir mais fundo em uma ramificação desconhecida."
+        }
+      ]
+    },
+    "storyAndEnding": {
+      "title": "História e Final de Rainbow Friends Capítulo 3",
+      "subtitle": "Siga a história desde a excursão original até a fuga do Odd World e o capítulo do Pirate Ship.",
+      "intro": "Rainbow Friends Capítulo 3 continua a mesma história de fuga em vez de começar uma aventura separada. O caminho atual da história conecta o final do Capítulo 2 a um retorno mais sombrio ao Odd World, ao cenário do Pirate Ship e ao mistério das Missing Colors.",
+      "items": [
+        {
+          "stage": "Capítulo 1",
+          "title": "A Excursão é Desviada",
+          "summary": "Uma viagem normal em direção ao Odd World é sabotada quando a placa de trânsito é alterada. O ônibus bate e os jogadores são levados para as instalações de Rainbow Friends.",
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Orange",
+            "Purple",
+            "Red"
+          ]
+        },
+        {
+          "stage": "Final do Capítulo 1",
+          "title": "Os Jogadores Escapam da Instalação",
+          "summary": "Os sobreviventes completam as tarefas de coleta de Red, evitam os Rainbow Friends originais e alcançam uma rota de fuga que leva a história em direção ao Odd World.",
+          "keyCharacters": [
+            "Jogadores",
+            "Red",
+            "Blue"
+          ]
+        },
+        {
+          "stage": "Capítulo 2",
+          "title": "Odd World se Abre",
+          "summary": "O próximo capítulo expande a história para a atração abandonada do Odd World. Yellow e Cyan se juntam às ameaças ativas enquanto o grupo completa novos objetivos de coleta e reparo.",
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Purple",
+            "Yellow",
+            "Cyan",
+            "Orange"
+          ]
+        },
+        {
+          "stage": "Final do Capítulo 2",
+          "title": "A Fuga de Carrinho de Mina e a Perseguição de Cyan",
+          "summary": "O final se passa pelo sistema de trilhos em uma sequência rápida de carrinho de mina. Cyan se torna a ameaça final de curto alcance enquanto os sobreviventes saem da atração.",
+          "keyCharacters": [
+            "Cyan",
+            "Orange",
+            "Jogadores"
+          ]
+        },
+        {
+          "stage": "Preparação para o Capítulo 3",
+          "title": "A Fuga Chega ao Pirate Ship",
+          "summary": "O Capítulo 3 retorna ao Odd World com um cenário marítimo mais sombrio. O Pirate Ship e o Sea map se tornam a próxima fase da fuga, enquanto Blue, Green, Red, Orange e Purple retornam no material de revelação.",
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Red",
+            "Orange",
+            "Purple"
+          ]
+        },
+        {
+          "stage": "Mistério do Capítulo 3",
+          "title": "The Missing Colors",
+          "summary": "The Missing Colors é apresentado como um mistério central do Capítulo 3 ligado ao novo cenário e ao retorno dos Rainbow Friends. O conjunto de trailers públicos estabelece o mistério e para antes de mostrar o final jogável completo.",
+          "keyCharacters": [
+            "The Missing Colors",
+            "Red",
+            "Jogadores"
+          ]
+        }
+      ]
+    },
+    "updatesAndNews": {
+      "title": "Atualizações e Novidades do Capítulo 3 de Rainbow Friends",
+      "subtitle": "Acompanhe a campanha de revelação oficial, prévias do Pirate Ship, lançamentos de trilha sonora e atualizações do Roblox em um só lugar.",
+      "intro": "Este feed organiza a campanha do Capítulo 3 desde o primeiro material de teaser até a revelação do Pirate Ship e o anúncio da lista de desejos. Cada atualização direciona para o vídeo oficial de Roy & Charcle, Roblox ou canais sociais.",
+      "items": [
+        {
+          "phase": "Teaser inicial",
+          "title": "Rainbow Friends: Trailer Teaser Oficial do Capítulo 3",
+          "summary": "O teaser traz os Rainbow Friends de volta a uma versão mais sombria do Odd World e inicia a campanha de revelação do Capítulo 3.",
+          "contentType": "Trailer teaser",
+          "href": "https://www.youtube.com/watch?v=y0HU3WYlGXI"
+        },
+        {
+          "phase": "Revelação do cenário",
+          "title": "O teaser do Pirate Ship",
+          "summary": "O próximo trailer identifica o Pirate Ship como o cenário definitivo do Capítulo 3 e situa a nova rota de fuga em torno de um ambiente marítimo.",
+          "contentType": "Trailer do cenário",
+          "href": "https://www.youtube.com/watch?v=_dE1agd2PWM"
+        },
+        {
+          "phase": "Expansão do trailer",
+          "title": "Rainbow Friends: Capítulo 3 Trailer Oficial Final",
+          "summary": "O trailer estendido apresenta o tom mais sombrio do Odd World, o retorno dos Rainbow Friends e imagens adicionais da história do Pirate Ship.",
+          "contentType": "Trailer completo",
+          "href": "https://www.youtube.com/watch?v=ycQvsvI-UxE"
+        },
+        {
+          "phase": "Prévia musical",
+          "title": "The Pirate Ship - Sea OST Oficial",
+          "summary": "A faixa oficial de Sea estabelece a atmosfera marítima e subaquática tensa usada para o mapa do Capítulo 3.",
+          "contentType": "Trilha sonora oficial",
+          "href": "https://www.youtube.com/watch?v=7fudFn7YsD0"
+        },
+        {
+          "phase": "Revelação oficial",
+          "title": "Trailer de Revelação Oficial do Capítulo 3 - Adicione à Lista de Desejos Agora",
+          "summary": "A revelação nomeia Blue, Green, Red, Orange e Purple na lista do Capítulo 3 e direciona os jogadores para a página oficial da lista de desejos.",
+          "contentType": "Trailer de revelação",
+          "href": "https://www.youtube.com/watch?v=_LApKcH4nlU"
+        },
+        {
+          "phase": "Acompanhamento de canal ao vivo",
+          "title": "Atualizações Oficiais de Roy & Charcle",
+          "summary": "Novas informações de lançamento, mudanças no Roblox, trailers e avisos pós-lançamento são publicados através da rede de canais oficiais da Roy & Charcle.",
+          "contentType": "Notícias do desenvolvedor",
+          "href": "https://www.youtube.com/@Official.RoyAndCharcle/videos"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Rainbow Friends Capítulo 3",
+    "titleHighlight": "FAQ",
+    "subtitle": "As principais perguntas que os jogadores fazem sobre o lançamento de Rainbow Friends Capítulo 3, canais oficiais e o status atual do jogo.",
+    "questions": [
+      {
+        "question": "O Rainbow Friends Capítulo 3 já foi lançado oficialmente?",
+        "answer": "Não. Rainbow Friends Capítulo 3 ainda não foi lançado oficialmente. O único jogo oficial é Rainbow Friends de Roy & Charcle, que atualmente contém o Capítulo 1 e o Capítulo 2."
+      },
+      {
+        "question": "Qual é a data de lançamento de Rainbow Friends Capítulo 3?",
+        "answer": "Não há uma data de lançamento oficial para Rainbow Friends Capítulo 3. Roy & Charcle não anunciaram um mês, temporada ou ano, então qualquer data específica compartilhada online é feita por fãs."
+      },
+      {
+        "question": "Quais capítulos eu posso jogar em Rainbow Friends agora?",
+        "answer": "Você pode jogar o Capítulo 1 e o Capítulo 2 dentro da experiência oficial de Rainbow Friends por Roy & Charcle. Rainbow Friends Capítulo 3 ainda não faz parte do jogo ativo."
+      },
+      {
+        "question": "Os trailers de Rainbow Friends Capítulo 3 que vejo no YouTube são oficiais?",
+        "answer": "Alguns trailers de Rainbow Friends Capítulo 3 vêm de Roy & Charcle, enquanto muitos outros são feitos por fãs. Sempre verifique se o canal é a conta oficial de Roy & Charcle antes de considerar um trailer como real."
+      },
+      {
+        "question": "Onde posso jogar Rainbow Friends Capítulo 3?",
+        "answer": "Rainbow Friends está disponível no Roblox usando o place ID 7991339063. Rainbow Friends Capítulo 3 será adicionado à mesma experiência oficial quando Roy & Charcle o lançarem."
+      },
+      {
+        "question": "Quem desenvolve Rainbow Friends Capítulo 3?",
+        "answer": "Rainbow Friends Capítulo 3 é desenvolvido por Roy & Charcle. O jogo oficial no Roblox, a comunidade, o site e as contas sociais são as únicas fontes confirmadas para notícias do Capítulo 3."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Rainbow Friends Capítulo 3?",
+    "description": "Siga as notícias oficiais de Roy & Charcle e junte-se à comunidade de Rainbow Friends para guias, teorias e atualizações.",
+    "joinCommunity": "Junte-se à Comunidade",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Rainbow Friends Capítulo 3",
+    "description": "Seu hub para rastreamento de lançamento, notícias oficiais, trailers, personagens, teorias de Rainbow Friends Capítulo 3 e guias de sobrevivência dos Capítulos 1 e 2.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "reddit": "Reddit",
+    "twitter": "X / Twitter",
+    "robloxCommunity": "Comunidade Roblox",
+    "robloxGame": "Jogue no Roblox",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Wiki de Rainbow Friends Capítulo 3. Não afiliado a Roy & Charcle ou Roblox Corporation.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "release": {
+      "title": "Lançamento de Rainbow Friends Capítulo 3",
+      "description": "Status oficial de lançamento de Rainbow Friends Capítulo 3, informações de lista de desejos, detalhes da plataforma e avisos sobre datas de lançamento falsas.",
+      "metaTitle": "Data de Lançamento e Status da Lista de Desejos de Rainbow Friends Capítulo 3",
+      "metaDescription": "Verifique o status oficial de lançamento de Rainbow Friends Capítulo 3, informações de lista de desejos, detalhes da plataforma e avisos sobre datas de lançamento falsas.",
+      "categoryLabel": "STATUS DE LANÇAMENTO",
+      "whatIs": "O que é o Lançamento?",
+      "whatIsDescription": "O status oficial de lançamento de Rainbow Friends Capítulo 3, informações de lista de desejos, detalhes da plataforma e avisos sobre datas de lançamento falsas circulando online.",
+      "why": "Por que verificar o lançamento?",
+      "whySteps": {
+        "step1Title": "Confirmar Status Oficial",
+        "step1Description": "Veja se Roy & Charcle anunciaram oficialmente o Capítulo 3",
+        "step2Title": "Evite Datas Falsas",
+        "step2Description": "Identifique datas de lançamento feitas por fãs e trailers falsos",
+        "step3Title": "Encontre o Jogo Certo",
+        "step3Description": "Abra a experiência oficial de Rainbow Friends no Roblox"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Informações de Lançamento"
+    },
+    "status": {
+      "title": "Status de Rainbow Friends Capítulo 3",
+      "description": "Status oficial de desenvolvimento de Rainbow Friends Capítulo 3 — confirmado, cancelado, teste beta, lista de desejos e prontidão para lançamento.",
+      "metaTitle": "Status de Rainbow Friends Capítulo 3 - Confirmado, Cancelado e Beta",
+      "metaDescription": "Acompanhe o status oficial de desenvolvimento de Rainbow Friends Capítulo 3: se está confirmado ou cancelado, testes beta e como adicionar aos favoritos no Roblox.",
+      "categoryLabel": "STATUS DE DESENVOLVIMENTO",
+      "whatIs": "Qual é o Status?",
+      "whatIsDescription": "O status oficial atual de desenvolvimento de Rainbow Friends Capítulo 3, cobrindo confirmação, rumores de cancelamento, testes beta, disponibilidade na lista de desejos e prontidão geral para o lançamento.",
+      "why": "Por que verificar o status?",
+      "whySteps": {
+        "step1Title": "Confirmar ou Desmentir",
+        "step1Description": "Veja se Rainbow Friends Capítulo 3 está oficialmente confirmado ou cancelado",
+        "step2Title": "Acompanhe Testes Beta",
+        "step2Description": "Siga as inscrições para testes beta fechados ou abertos",
+        "step3Title": "Adicione aos Favoritos Cedo",
+        "step3Description": "Favorite o jogo no Roblox para estar pronto no momento em que ele for lançado"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Artigos de Status"
+    },
+    "trailers": {
+      "title": "Trailers de Rainbow Friends Capítulo 3",
+      "description": "Todos os trailers de Rainbow Friends Capítulo 3 — oficial, revelação, teaser e gameplay — verificados contra fakes criados por fãs.",
+      "metaTitle": "Trailers de Rainbow Friends Capítulo 3 - Oficial, Revelação e Teaser",
+      "metaDescription": "Assista e verifique cada trailer de Rainbow Friends Capítulo 3: oficial, revelação, teaser, gameplay e sneak peeks, separados de fakes criados por fãs.",
+      "categoryLabel": "TRAILERS E VÍDEOS",
+      "whatIs": "O que são Trailers?",
+      "whatIsDescription": "Todos os trailers de Rainbow Friends Capítulo 3 em um só lugar — trailers oficiais, de revelação, teaser e gameplay, além de sneak peeks — cada um verificado como conteúdo real de Roy & Charcle ou marcado como feito por fãs.",
+      "why": "Por que assistir aos trailers?",
+      "whySteps": {
+        "step1Title": "Identifique Trailers Oficiais",
+        "step1Description": "Diferencie trailers reais de Roy & Charcle de edições feitas por fãs",
+        "step2Title": "Acompanhe Novas Revelações",
+        "step2Description": "Siga os trailers de revelação, teaser e gameplay conforme forem lançados",
+        "step3Title": "Analise os Sneak Peeks",
+        "step3Description": "Analise clipes de sneak peek em busca de pistas sobre monstros e mapas"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Trailers"
+    },
+    "monsters": {
+      "title": "Monstros de Rainbow Friends Capítulo 3",
+      "description": "Guias detalhados para cada monstro de Rainbow Friends Capítulo 3 — Cyan, Pink, Lime, Black e Indigo — com comportamento e estratégias de defesa.",
+      "metaTitle": "Monstros de Rainbow Friends Capítulo 3 - Cyan, Pink, Lime, Black e Indigo",
+      "metaDescription": "Banco de dados completo de monstros de Rainbow Friends Capítulo 3 cobrindo Cyan, Pink, Lime, Black e Indigo com comportamento de detecção, sinais de alerta e estratégias de defesa.",
+      "categoryLabel": "MONSTROS E INIMIGOS",
+      "whatIs": "O que são Monstros?",
+      "whatIsDescription": "Guias para cada monstro de Rainbow Friends Capítulo 3, cobrindo estilo de detecção, sinais de alerta, comportamento de perseguição e a estratégia de defesa mais segura para cada nova cor.",
+      "why": "Por que estudar os monstros?",
+      "whySteps": {
+        "step1Title": "Reconheça os Sinais de Alerta",
+        "step1Description": "Identifique sinais sonoros e visuais antes que um monstro te alcance",
+        "step2Title": "---",
+        "step2Description": "Planeje Contra-estratégias",
+        "step3Title": "Aprenda a resposta mais segura para cada monstro do Capítulo 3",
+        "step3Description": "Fuja de Perseguições"
+      },
+      "featured": "Quebre a linha de visão e alcance rotas seguras sob pressão",
+      "all": "Destaques e Essenciais"
+    },
+    "locations": {
+      "title": "Todos os Guias de Monstros",
+      "description": "Rainbow Friends Capítulo 3 Locais",
+      "metaTitle": "Vazamentos de mapa e guias de locais para Rainbow Friends Capítulo 3 — Pirate Ship, School, Odd Fields e as novas rotas de Sea.",
+      "metaDescription": "Rainbow Friends Capítulo 3 Locais - Mapa, Pirate Ship & School",
+      "categoryLabel": "Explore os locais e vazamentos de mapa de Rainbow Friends Capítulo 3: Pirate Ship, School, Odd Fields e novas áreas com tema de Sea com guias de rotas e esconderijos.",
+      "whatIs": "MAPAS E LOCAIS",
+      "whatIsDescription": "O que são Locais?",
+      "why": "Guias de locais e mapas de Rainbow Friends Capítulo 3 cobrindo vazamentos de mapa, Pirate Ship, School, Odd Fields e as novas rotas de Sea que os jogadores irão explorar.",
+      "whySteps": {
+        "step1Title": "Por que estudar os locais?",
+        "step1Description": "Aprenda o Mapa",
+        "step2Title": "Entenda o layout do mapa do Capítulo 3 e as áreas vazadas",
+        "step2Description": "Planeje Rotas Seguras",
+        "step3Title": "Encontre os caminhos mais seguros pela Pirate Ship e School",
+        "step3Description": "Encontre Esconderijos"
+      },
+      "featured": "Localize esconderijos confiáveis em Odd Fields e nas novas zonas",
+      "all": "Destaques e Essenciais"
+    },
+    "guide": {
+      "title": "Todos os Guias de Locais",
+      "description": "Guia de Rainbow Friends Capítulo 3",
+      "metaTitle": "Guias completos de Rainbow Friends Capítulo 3 — o básico para iniciantes, gameplay, walkthrough completo, como jogar, como vencer e a tier list.",
+      "metaDescription": "Guia de Rainbow Friends Capítulo 3 - Walkthrough, Tier List & Dicas",
+      "categoryLabel": "Domine Rainbow Friends Capítulo 3 com guias para iniciantes, dicas de gameplay, walkthroughs completos, como jogar, como vencer cada fase e a tier list de personagens.",
+      "whatIs": "GUIAS E WALKTHROUGHS",
+      "whatIsDescription": "O que é o Guia?",
+      "why": "Guias completos de Rainbow Friends Capítulo 3 cobrindo o básico para iniciantes, mecânicas de gameplay, o walkthrough completo, como jogar, como vencer cada fase e a tier list de personagens.",
+      "whySteps": {
+        "step1Title": "Por que ler guias?",
+        "step1Description": "Aprenda o Básico",
+        "step2Title": "Comece com como jogar, se mover, se esconder e sobreviver",
+        "step2Description": "Vença Todas as Fases",
+        "step3Title": "Siga o walkthrough completo e as estratégias de como vencer",
+        "step3Description": "Escolha o Melhor Personagem"
+      },
+      "featured": "Use a tier list para escolher os sobreviventes mais fortes",
+      "all": "Destaques e Essenciais"
+    },
+    "story": {
+      "title": "Todos os Guias",
+      "description": "História de Rainbow Friends Capítulo 3",
+      "metaTitle": "---",
+      "metaDescription": "História de Rainbow Friends Capítulo 3 - Finais, Previsões e Teorias",
+      "categoryLabel": "Acompanhe a história de Rainbow Friends Capítulo 3 com teorias de finais, previsões, segredos da lore e o mistério de Missing Colors.",
+      "whatIs": "HISTÓRIA E LORE",
+      "whatIsDescription": "Qual é a História?",
+      "why": "Cobertura da história de Rainbow Friends Capítulo 3, incluindo finais, previsões, teorias de fãs, segredos escondidos e o mistério de Missing Colors.",
+      "whySteps": {
+        "step1Title": "Por que acompanhar a história?",
+        "step1Description": "Acompanhe a Linha do Tempo",
+        "step2Title": "Conecte os eventos do Capítulo 1, Capítulo 2 e Capítulo 3 em ordem",
+        "step2Description": "Entenda os Finais",
+        "step3Title": "Veja como cada fuga de capítulo prepara a próxima ameaça",
+        "step3Description": "Explore Teorias"
+      },
+      "featured": "Separe os pontos confirmados da história de teorias de fãs e segredos",
+      "all": "Em Destaque e Essenciais"
+    }
   }
 }
