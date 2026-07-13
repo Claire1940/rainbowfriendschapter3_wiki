@@ -28,6 +28,22 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Rainbow Friends Chapter 3 模块导航图标
+  CalendarClock: LucideIcons.CalendarClock,
+  Ticket: LucideIcons.Ticket,
+  Map: LucideIcons.Map,
+  Skull: LucideIcons.Skull,
+  Compass: LucideIcons.Compass,
+  Clapperboard: LucideIcons.Clapperboard,
+  Newspaper: LucideIcons.Newspaper,
+  Gift: LucideIcons.Gift,
+  Trophy: LucideIcons.Trophy,
+  Anchor: LucideIcons.Anchor,
+  Ship: LucideIcons.Ship,
+  Waves: LucideIcons.Waves,
+  Footprints: LucideIcons.Footprints,
+  Rocket: LucideIcons.Rocket,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
