@@ -1,1 +1,494 @@
-{}
+{
+  "en": {
+    "guide": [
+      {
+        "slug": "rainbow-friends-chapter-3-beginner-guide",
+        "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay",
+        "file": "rainbow-friends-chapter-3-gameplay"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-beat",
+        "file": "rainbow-friends-chapter-3-how-to-beat"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-play",
+        "file": "rainbow-friends-chapter-3-how-to-play"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-tier-list",
+        "file": "rainbow-friends-chapter-3-tier-list"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-walkthrough",
+        "file": "rainbow-friends-chapter-3-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "rainbow-friends-chapter-3-map-leak",
+        "file": "rainbow-friends-chapter-3-map-leak"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-map",
+        "file": "rainbow-friends-chapter-3-map"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-odd-fields",
+        "file": "rainbow-friends-chapter-3-odd-fields"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pirate",
+        "file": "rainbow-friends-chapter-3-pirate"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-school",
+        "file": "rainbow-friends-chapter-3-school"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "rainbow-friends-chapter-3-black",
+        "file": "rainbow-friends-chapter-3-black"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-characters-names",
+        "file": "rainbow-friends-chapter-3-characters-names"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cyan",
+        "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-indigo",
+        "file": "rainbow-friends-chapter-3-indigo"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-lime",
+        "file": "rainbow-friends-chapter-3-lime"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-monsters",
+        "file": "rainbow-friends-chapter-3-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pink",
+        "file": "rainbow-friends-chapter-3-pink"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-june-14th",
+        "file": "rainbow-friends-chapter-3-june-14th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-november-17th",
+        "file": "rainbow-friends-chapter-3-november-17th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date-2026",
+        "file": "rainbow-friends-chapter-3-release-date-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date",
+        "file": "rainbow-friends-chapter-3-release-date"
+      }
+    ],
+    "status": [
+      {
+        "slug": "rainbow-friends-chapter-3-beta-test",
+        "file": "rainbow-friends-chapter-3-beta-test"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cancelled",
+        "file": "rainbow-friends-chapter-3-cancelled"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-confirmed",
+        "file": "rainbow-friends-chapter-3-confirmed"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-is-it-out",
+        "file": "rainbow-friends-chapter-3-is-it-out"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-wishlist",
+        "file": "rainbow-friends-chapter-3-wishlist"
+      }
+    ],
+    "story": [
+      {
+        "slug": "rainbow-friends-chapter-3-ending",
+        "file": "rainbow-friends-chapter-3-ending"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-predictions",
+        "file": "rainbow-friends-chapter-3-predictions"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-secrets",
+        "file": "rainbow-friends-chapter-3-secrets"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-story",
+        "file": "rainbow-friends-chapter-3-story"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-theories",
+        "file": "rainbow-friends-chapter-3-theories"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay-trailer",
+        "file": "rainbow-friends-chapter-3-gameplay-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-official-trailer",
+        "file": "rainbow-friends-chapter-3-official-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reveal-trailer",
+        "file": "rainbow-friends-chapter-3-reveal-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-sneak-peek",
+        "file": "rainbow-friends-chapter-3-sneak-peek"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-teaser-trailer",
+        "file": "rainbow-friends-chapter-3-teaser-trailer"
+      }
+    ]
+  },
+  "es": {
+    "guide": [
+      {
+        "slug": "rainbow-friends-chapter-3-beginner-guide",
+        "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay",
+        "file": "rainbow-friends-chapter-3-gameplay"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-beat",
+        "file": "rainbow-friends-chapter-3-how-to-beat"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-play",
+        "file": "rainbow-friends-chapter-3-how-to-play"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-tier-list",
+        "file": "rainbow-friends-chapter-3-tier-list"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-walkthrough",
+        "file": "rainbow-friends-chapter-3-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "rainbow-friends-chapter-3-map-leak",
+        "file": "rainbow-friends-chapter-3-map-leak"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-map",
+        "file": "rainbow-friends-chapter-3-map"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-odd-fields",
+        "file": "rainbow-friends-chapter-3-odd-fields"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pirate",
+        "file": "rainbow-friends-chapter-3-pirate"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-school",
+        "file": "rainbow-friends-chapter-3-school"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "rainbow-friends-chapter-3-black",
+        "file": "rainbow-friends-chapter-3-black"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-characters-names",
+        "file": "rainbow-friends-chapter-3-characters-names"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cyan",
+        "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-indigo",
+        "file": "rainbow-friends-chapter-3-indigo"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-lime",
+        "file": "rainbow-friends-chapter-3-lime"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-monsters",
+        "file": "rainbow-friends-chapter-3-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pink",
+        "file": "rainbow-friends-chapter-3-pink"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-june-14th",
+        "file": "rainbow-friends-chapter-3-june-14th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-november-17th",
+        "file": "rainbow-friends-chapter-3-november-17th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date-2026",
+        "file": "rainbow-friends-chapter-3-release-date-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date",
+        "file": "rainbow-friends-chapter-3-release-date"
+      }
+    ],
+    "status": [
+      {
+        "slug": "rainbow-friends-chapter-3-beta-test",
+        "file": "rainbow-friends-chapter-3-beta-test"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cancelled",
+        "file": "rainbow-friends-chapter-3-cancelled"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-confirmed",
+        "file": "rainbow-friends-chapter-3-confirmed"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-is-it-out",
+        "file": "rainbow-friends-chapter-3-is-it-out"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-wishlist",
+        "file": "rainbow-friends-chapter-3-wishlist"
+      }
+    ],
+    "story": [
+      {
+        "slug": "rainbow-friends-chapter-3-ending",
+        "file": "rainbow-friends-chapter-3-ending"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-predictions",
+        "file": "rainbow-friends-chapter-3-predictions"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-secrets",
+        "file": "rainbow-friends-chapter-3-secrets"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-story",
+        "file": "rainbow-friends-chapter-3-story"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-theories",
+        "file": "rainbow-friends-chapter-3-theories"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay-trailer",
+        "file": "rainbow-friends-chapter-3-gameplay-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-official-trailer",
+        "file": "rainbow-friends-chapter-3-official-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reveal-trailer",
+        "file": "rainbow-friends-chapter-3-reveal-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-sneak-peek",
+        "file": "rainbow-friends-chapter-3-sneak-peek"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-teaser-trailer",
+        "file": "rainbow-friends-chapter-3-teaser-trailer"
+      }
+    ]
+  },
+  "pt": {
+    "guide": [
+      {
+        "slug": "rainbow-friends-chapter-3-beginner-guide",
+        "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay",
+        "file": "rainbow-friends-chapter-3-gameplay"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-beat",
+        "file": "rainbow-friends-chapter-3-how-to-beat"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-how-to-play",
+        "file": "rainbow-friends-chapter-3-how-to-play"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-tier-list",
+        "file": "rainbow-friends-chapter-3-tier-list"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-walkthrough",
+        "file": "rainbow-friends-chapter-3-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "rainbow-friends-chapter-3-map-leak",
+        "file": "rainbow-friends-chapter-3-map-leak"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-map",
+        "file": "rainbow-friends-chapter-3-map"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-odd-fields",
+        "file": "rainbow-friends-chapter-3-odd-fields"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pirate",
+        "file": "rainbow-friends-chapter-3-pirate"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-school",
+        "file": "rainbow-friends-chapter-3-school"
+      }
+    ],
+    "monsters": [
+      {
+        "slug": "rainbow-friends-chapter-3-black",
+        "file": "rainbow-friends-chapter-3-black"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-characters-names",
+        "file": "rainbow-friends-chapter-3-characters-names"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cyan",
+        "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-indigo",
+        "file": "rainbow-friends-chapter-3-indigo"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-lime",
+        "file": "rainbow-friends-chapter-3-lime"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-monsters",
+        "file": "rainbow-friends-chapter-3-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-pink",
+        "file": "rainbow-friends-chapter-3-pink"
+      }
+    ],
+    "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-june-14th",
+        "file": "rainbow-friends-chapter-3-june-14th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-november-17th",
+        "file": "rainbow-friends-chapter-3-november-17th"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date-2026",
+        "file": "rainbow-friends-chapter-3-release-date-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-release-date",
+        "file": "rainbow-friends-chapter-3-release-date"
+      }
+    ],
+    "status": [
+      {
+        "slug": "rainbow-friends-chapter-3-beta-test",
+        "file": "rainbow-friends-chapter-3-beta-test"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-cancelled",
+        "file": "rainbow-friends-chapter-3-cancelled"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-confirmed",
+        "file": "rainbow-friends-chapter-3-confirmed"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-is-it-out",
+        "file": "rainbow-friends-chapter-3-is-it-out"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-wishlist",
+        "file": "rainbow-friends-chapter-3-wishlist"
+      }
+    ],
+    "story": [
+      {
+        "slug": "rainbow-friends-chapter-3-ending",
+        "file": "rainbow-friends-chapter-3-ending"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-predictions",
+        "file": "rainbow-friends-chapter-3-predictions"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-secrets",
+        "file": "rainbow-friends-chapter-3-secrets"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-story",
+        "file": "rainbow-friends-chapter-3-story"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-theories",
+        "file": "rainbow-friends-chapter-3-theories"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "rainbow-friends-chapter-3-gameplay-trailer",
+        "file": "rainbow-friends-chapter-3-gameplay-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-official-trailer",
+        "file": "rainbow-friends-chapter-3-official-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reveal-trailer",
+        "file": "rainbow-friends-chapter-3-reveal-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-sneak-peek",
+        "file": "rainbow-friends-chapter-3-sneak-peek"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-teaser-trailer",
+        "file": "rainbow-friends-chapter-3-teaser-trailer"
+      }
+    ]
+  }
+}

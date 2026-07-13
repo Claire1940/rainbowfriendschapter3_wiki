@@ -10,7 +10,15 @@
       "twitterDescription": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "status": "Status",
+    "trailers": "Trailers",
+    "monsters": "Monsters",
+    "locations": "Locations",
+    "guide": "Guide",
+    "story": "Story"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -364,37 +372,68 @@
           "stage": "Chapter 1",
           "title": "The Field Trip Is Diverted",
           "summary": "A normal trip toward Odd World is sabotaged when the road sign is changed. The bus crashes and the players are taken into the Rainbow Friends facility.",
-          "keyCharacters": ["Blue", "Green", "Orange", "Purple", "Red"]
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Orange",
+            "Purple",
+            "Red"
+          ]
         },
         {
           "stage": "Chapter 1 Ending",
           "title": "The Players Escape the Facility",
           "summary": "The survivors complete Red's collection tasks, avoid the original Rainbow Friends and reach an escape route that carries the story toward Odd World.",
-          "keyCharacters": ["Players", "Red", "Blue"]
+          "keyCharacters": [
+            "Players",
+            "Red",
+            "Blue"
+          ]
         },
         {
           "stage": "Chapter 2",
           "title": "Odd World Opens",
           "summary": "The next chapter expands the story into the abandoned Odd World attraction. Yellow and Cyan join the active threats while the group completes new collection and repair objectives.",
-          "keyCharacters": ["Blue", "Green", "Purple", "Yellow", "Cyan", "Orange"]
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Purple",
+            "Yellow",
+            "Cyan",
+            "Orange"
+          ]
         },
         {
           "stage": "Chapter 2 Ending",
           "title": "The Minecart Escape and Cyan Chase",
           "summary": "The finale moves through the ride system in a fast minecart sequence. Cyan becomes the final close-range threat as the survivors push out of the attraction.",
-          "keyCharacters": ["Cyan", "Orange", "Players"]
+          "keyCharacters": [
+            "Cyan",
+            "Orange",
+            "Players"
+          ]
         },
         {
           "stage": "Chapter 3 Setup",
           "title": "The Escape Reaches the Pirate Ship",
           "summary": "Chapter 3 returns to Odd World with a darker maritime setting. The Pirate Ship and Sea map become the next stage of the escape while Blue, Green, Red, Orange and Purple return in the reveal material.",
-          "keyCharacters": ["Blue", "Green", "Red", "Orange", "Purple"]
+          "keyCharacters": [
+            "Blue",
+            "Green",
+            "Red",
+            "Orange",
+            "Purple"
+          ]
         },
         {
           "stage": "Chapter 3 Mystery",
           "title": "The Missing Colors",
           "summary": "The Missing Colors is presented as a central Chapter 3 mystery tied to the new setting and the returning Rainbow Friends. The public trailer set establishes the mystery and stops before showing the complete playable ending.",
-          "keyCharacters": ["The Missing Colors", "Red", "Players"]
+          "keyCharacters": [
+            "The Missing Colors",
+            "Red",
+            "Players"
+          ]
         }
       ]
     },
@@ -503,98 +542,18 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Rainbow Friends Chapter 3 Guides",
-      "description": "Complete survival guides covering Rainbow Friends monsters, hiding mechanics, objectives and chapter routes.",
-      "metaTitle": "Rainbow Friends Chapter 3 Guides - Survival & Walkthrough Tips",
-      "metaDescription": "Complete Rainbow Friends Chapter 3 guides covering monsters, hiding mechanics, teamwork basics and chapter walkthrough strategies.",
-      "categoryLabel": "SURVIVAL GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering Rainbow Friends monsters, hiding mechanics, teamwork and survival strategies across every chapter.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Monster Rules",
-        "step1Description": "Understand how each Rainbow Friend detects and chases players",
-        "step2Title": "Survive Longer",
-        "step2Description": "Follow proven hiding and teamwork tactics to complete objectives",
-        "step3Title": "Master Each Chapter",
-        "step3Description": "Plan safe routes and escape sequences for every stage"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "monsters": {
-      "title": "Rainbow Friends Monsters",
-      "description": "Detailed guides for every Rainbow Friend including behavior, warning signs and counter strategies.",
-      "metaTitle": "Rainbow Friends Monsters - Behavior, Tiers & Counter Strategies",
-      "metaDescription": "Complete Rainbow Friends monster database including Blue, Green, Orange, Purple, Yellow, Cyan and Red with behavior and counter strategies.",
-      "categoryLabel": "MONSTERS & ENEMIES",
-      "whatIs": "What are Monsters?",
-      "whatIsDescription": "Guides for every Rainbow Friend, covering detection style, warning signs, chase behavior and the safest counter strategy.",
-      "why": "Why study monsters?",
-      "whySteps": {
-        "step1Title": "Recognize Warning Signs",
-        "step1Description": "Spot audio and visual cues before a monster reaches you",
-        "step2Title": "Plan Counter Strategies",
-        "step2Description": "Learn the safest response for each Rainbow Friend",
-        "step3Title": "Escape Chases",
-        "step3Description": "Break line of sight and reach safe routes under pressure"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Monster Guides"
-    },
-    "story": {
-      "title": "Rainbow Friends Story",
-      "description": "Story recaps, chapter endings, theories and the Missing Colors mystery from Rainbow Friends Chapter 3.",
-      "metaTitle": "Rainbow Friends Story - Chapter Timeline, Endings & Theories",
-      "metaDescription": "Follow the Rainbow Friends story from the field trip through Odd World and into Chapter 3, including endings and the Missing Colors mystery.",
-      "categoryLabel": "STORY & LORE",
-      "whatIs": "What is the Story?",
-      "whatIsDescription": "Story recaps covering the Rainbow Friends timeline, chapter endings, returning characters and the Chapter 3 Missing Colors mystery.",
-      "why": "Why follow the story?",
-      "whySteps": {
-        "step1Title": "Track the Timeline",
-        "step1Description": "Connect Chapter 1, Chapter 2 and Chapter 3 events in order",
-        "step2Title": "Understand Endings",
-        "step2Description": "See how each chapter escape sets up the next threat",
-        "step3Title": "Explore Theories",
-        "step3Description": "Separate confirmed story beats from fan theories"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Story Guides"
-    },
-    "news": {
-      "title": "Rainbow Friends Chapter 3 News",
-      "description": "Official trailers, reveal campaign updates, soundtrack releases and Roblox patch notes.",
-      "metaTitle": "Rainbow Friends Chapter 3 News - Trailers, Reveals & Updates",
-      "metaDescription": "Track official Rainbow Friends Chapter 3 news including trailers, Pirate Ship reveals, soundtrack releases and Roblox updates.",
-      "categoryLabel": "NEWS & UPDATES",
-      "whatIs": "What is News?",
-      "whatIsDescription": "Official Rainbow Friends Chapter 3 updates from Roy & Charcle, including trailers, reveals, soundtrack releases and patch notes.",
-      "why": "Why follow news?",
-      "whySteps": {
-        "step1Title": "Catch Official Trailers",
-        "step1Description": "Tell official Roy & Charcle trailers from fan-made videos",
-        "step2Title": "Track the Reveal",
-        "step2Description": "Follow the Pirate Ship and wishlist campaign in order",
-        "step3Title": "Stay Updated",
-        "step3Description": "Watch for the Rainbow Friends Chapter 3 release and patches"
-      },
-      "featured": "Featured & Essential",
-      "all": "All News"
-    },
     "release": {
       "title": "Rainbow Friends Chapter 3 Release",
-      "description": "Official release status, wishlist information, platform details and fake date warnings.",
+      "description": "Official Rainbow Friends Chapter 3 release status, wishlist info, platform details and fake release date warnings.",
       "metaTitle": "Rainbow Friends Chapter 3 Release Date & Wishlist Status",
       "metaDescription": "Check the official Rainbow Friends Chapter 3 release status, wishlist information, platform details and fake release date warnings.",
       "categoryLabel": "RELEASE STATUS",
       "whatIs": "What is the Release?",
-      "whatIsDescription": "The official Rainbow Friends Chapter 3 release status, wishlist information, platform details and warnings about fake release dates.",
+      "whatIsDescription": "The official Rainbow Friends Chapter 3 release status, wishlist information, platform details and warnings about fake release dates circulating online.",
       "why": "Why check the release?",
       "whySteps": {
         "step1Title": "Confirm Official Status",
-        "step1Description": "See whether Roy & Charcle have announced Chapter 3",
+        "step1Description": "See whether Roy & Charcle have officially announced Chapter 3",
         "step2Title": "Avoid Fake Dates",
         "step2Description": "Spot fan-made release dates and fake trailers",
         "step3Title": "Find the Right Game",
@@ -603,25 +562,125 @@
       "featured": "Featured & Essential",
       "all": "All Release Info"
     },
-    "support": {
-      "title": "Rainbow Friends Support",
-      "description": "Platform help, Roblox setup, controls and troubleshooting for the Rainbow Friends experience.",
-      "metaTitle": "Rainbow Friends Support - Platform, Controls & Troubleshooting",
-      "metaDescription": "Get support for Rainbow Friends including Roblox setup, controls, multiplayer basics and troubleshooting for common issues.",
-      "categoryLabel": "PLAYER SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical and gameplay support for Rainbow Friends, covering Roblox setup, controls, multiplayer basics and common troubleshooting steps.",
-      "why": "Why check support?",
+    "status": {
+      "title": "Rainbow Friends Chapter 3 Status",
+      "description": "Official development status of Rainbow Friends Chapter 3 — confirmed, cancelled, beta test, wishlist and release readiness.",
+      "metaTitle": "Rainbow Friends Chapter 3 Status - Confirmed, Cancelled & Beta",
+      "metaDescription": "Track the official Rainbow Friends Chapter 3 development status: whether it is confirmed or cancelled, beta tests and how to wishlist on Roblox.",
+      "categoryLabel": "DEVELOPMENT STATUS",
+      "whatIs": "What is the Status?",
+      "whatIsDescription": "The current official development status of Rainbow Friends Chapter 3, covering confirmation, cancellation rumors, beta tests, wishlist availability and overall release readiness.",
+      "why": "Why check the status?",
       "whySteps": {
-        "step1Title": "Set Up Roblox",
-        "step1Description": "Open the official Rainbow Friends experience correctly",
-        "step2Title": "Learn Controls",
-        "step2Description": "Understand movement, carrying and hiding controls",
-        "step3Title": "Solve Issues",
-        "step3Description": "Troubleshoot common Rainbow Friends gameplay problems"
+        "step1Title": "Confirm or Debunk",
+        "step1Description": "See whether Rainbow Friends Chapter 3 is officially confirmed or cancelled",
+        "step2Title": "Track Beta Tests",
+        "step2Description": "Follow any closed or open beta test sign-ups",
+        "step3Title": "Wishlist Early",
+        "step3Description": "Favorite the game on Roblox so you are ready the moment it launches"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Status Articles"
+    },
+    "trailers": {
+      "title": "Rainbow Friends Chapter 3 Trailers",
+      "description": "Every Rainbow Friends Chapter 3 trailer — official, reveal, teaser and gameplay — verified against fan-made fakes.",
+      "metaTitle": "Rainbow Friends Chapter 3 Trailers - Official, Reveal & Teaser",
+      "metaDescription": "Watch and verify every Rainbow Friends Chapter 3 trailer: official, reveal, teaser, gameplay and sneak peeks, separated from fan-made fakes.",
+      "categoryLabel": "TRAILERS & VIDEOS",
+      "whatIs": "What are Trailers?",
+      "whatIsDescription": "All Rainbow Friends Chapter 3 trailers in one place — official, reveal, teaser and gameplay trailers plus sneak peeks — each verified as real Roy & Charcle content or flagged as fan-made.",
+      "why": "Why watch trailers?",
+      "whySteps": {
+        "step1Title": "Spot Official Trailers",
+        "step1Description": "Tell real Roy & Charcle trailers apart from fan-made edits",
+        "step2Title": "Catch New Reveals",
+        "step2Description": "Follow reveal, teaser and gameplay trailers as they drop",
+        "step3Title": "Analyze Sneak Peeks",
+        "step3Description": "Break down sneak peek clips for monster and map clues"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Trailers"
+    },
+    "monsters": {
+      "title": "Rainbow Friends Chapter 3 Monsters",
+      "description": "Detailed guides for every Rainbow Friends Chapter 3 monster — Cyan, Pink, Lime, Black and Indigo — with behavior and counter strategies.",
+      "metaTitle": "Rainbow Friends Chapter 3 Monsters - Cyan, Pink, Lime, Black & Indigo",
+      "metaDescription": "Complete Rainbow Friends Chapter 3 monster database covering Cyan, Pink, Lime, Black and Indigo with detection behavior, warning signs and counter strategies.",
+      "categoryLabel": "MONSTERS & ENEMIES",
+      "whatIs": "What are Monsters?",
+      "whatIsDescription": "Guides for every Rainbow Friends Chapter 3 monster, covering detection style, warning signs, chase behavior and the safest counter strategy for each new color.",
+      "why": "Why study monsters?",
+      "whySteps": {
+        "step1Title": "Recognize Warning Signs",
+        "step1Description": "Spot audio and visual cues before a monster reaches you",
+        "step2Title": "Plan Counter Strategies",
+        "step2Description": "Learn the safest response for each Chapter 3 monster",
+        "step3Title": "Escape Chases",
+        "step3Description": "Break line of sight and reach safe routes under pressure"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Monster Guides"
+    },
+    "locations": {
+      "title": "Rainbow Friends Chapter 3 Locations",
+      "description": "Map leaks and location guides for Rainbow Friends Chapter 3 — Pirate Ship, School, Odd Fields and the new sea routes.",
+      "metaTitle": "Rainbow Friends Chapter 3 Locations - Map, Pirate Ship & School",
+      "metaDescription": "Explore Rainbow Friends Chapter 3 locations and map leaks: the Pirate Ship, School, Odd Fields and new sea-themed areas with route and hiding guides.",
+      "categoryLabel": "MAPS & LOCATIONS",
+      "whatIs": "What are Locations?",
+      "whatIsDescription": "Rainbow Friends Chapter 3 location and map guides covering map leaks, the Pirate Ship, School, Odd Fields and the new sea routes players will explore.",
+      "why": "Why study locations?",
+      "whySteps": {
+        "step1Title": "Learn the Map",
+        "step1Description": "Understand the Chapter 3 map layout and leaked areas",
+        "step2Title": "Plan Safe Routes",
+        "step2Description": "Find the safest paths through the Pirate Ship and School",
+        "step3Title": "Find Hiding Spots",
+        "step3Description": "Locate reliable hiding spots in Odd Fields and the new zones"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Location Guides"
+    },
+    "guide": {
+      "title": "Rainbow Friends Chapter 3 Guide",
+      "description": "Complete Rainbow Friends Chapter 3 guides — beginner basics, gameplay, full walkthrough, how to play, how to beat and the tier list.",
+      "metaTitle": "Rainbow Friends Chapter 3 Guide - Walkthrough, Tier List & Tips",
+      "metaDescription": "Master Rainbow Friends Chapter 3 with beginner guides, gameplay tips, full walkthroughs, how to play, how to beat each stage and the character tier list.",
+      "categoryLabel": "GUIDES & WALKTHROUGHS",
+      "whatIs": "What is the Guide?",
+      "whatIsDescription": "Complete Rainbow Friends Chapter 3 guides covering beginner basics, gameplay mechanics, the full walkthrough, how to play, how to beat each stage and the character tier list.",
+      "why": "Why read guides?",
+      "whySteps": {
+        "step1Title": "Learn the Basics",
+        "step1Description": "Start with how to play, move, hide and survive",
+        "step2Title": "Beat Every Stage",
+        "step2Description": "Follow the full walkthrough and how-to-beat strategies",
+        "step3Title": "Pick the Best Character",
+        "step3Description": "Use the tier list to choose the strongest survivors"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "story": {
+      "title": "Rainbow Friends Chapter 3 Story",
+      "description": "Story recaps, chapter endings, predictions, theories and secrets from Rainbow Friends Chapter 3.",
+      "metaTitle": "Rainbow Friends Chapter 3 Story - Endings, Predictions & Theories",
+      "metaDescription": "Follow the Rainbow Friends Chapter 3 story with ending theories, predictions, lore secrets and the Missing Colors mystery.",
+      "categoryLabel": "STORY & LORE",
+      "whatIs": "What is the Story?",
+      "whatIsDescription": "Story coverage for Rainbow Friends Chapter 3 including endings, predictions, fan theories, hidden secrets and the Missing Colors mystery.",
+      "why": "Why follow the story?",
+      "whySteps": {
+        "step1Title": "Track the Timeline",
+        "step1Description": "Connect Chapter 1, Chapter 2 and Chapter 3 events in order",
+        "step2Title": "Understand Endings",
+        "step2Description": "See how each chapter escape sets up the next threat",
+        "step3Title": "Explore Theories",
+        "step3Description": "Separate confirmed story beats from fan theories and secrets"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Story Guides"
     }
   }
 }

@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "release": "Lançamento",
+    "status": "Status",
+    "trailers": "Trailers",
+    "monsters": "Monstros",
+    "locations": "Locais",
+    "guide": "Guia",
+    "story": "História"
+  }
+}
