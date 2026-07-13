@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Rainbow Friends Chapter 3 Wiki - Release, News & Guides",
+  "short_name": "Rainbow Friends Chapter 3",
+  "description": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#334beb",
+  "background_color": "#0d111c",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
