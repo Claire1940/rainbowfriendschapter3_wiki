@@ -10,14 +10,7 @@
       "twitterDescription": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
