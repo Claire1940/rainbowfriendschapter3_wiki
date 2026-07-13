@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.rainbowfriendschapter3.wiki/sitemap.xml

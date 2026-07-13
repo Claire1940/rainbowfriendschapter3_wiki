@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Rainbow Friends Chapter 3 Wiki - Release, News & Guides",
+      "description": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides.",
+      "keywords": "Rainbow Friends Chapter 3, Roblox, release date, trailer, characters, guide, news",
+      "ogTitle": "Rainbow Friends Chapter 3 Wiki - Release, News & Guides",
+      "ogDescription": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides.",
+      "twitterTitle": "Rainbow Friends Chapter 3 Wiki - Release, News & Guides",
+      "twitterDescription": "Track the Rainbow Friends Chapter 3 release status, official news, trailers, characters, theories, and complete Chapter 1 and Chapter 2 survival guides."
     }
   },
   "nav": {
@@ -34,27 +34,28 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Co-op Roblox Mascot Horror",
+    "title": "Rainbow Friends Chapter 3 Wiki",
+    "description": "Track official Chapter 3 news while exploring Rainbow Friends characters, monsters, story clues, hiding mechanics, maps, endings and survival guides.",
+    "keywords": "Rainbow Friends Chapter 3, Roblox, release date, trailer, characters, monsters, story, theories, walkthrough",
+    "getFreeCodesCTA": "Check Chapter 3 Status",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "4.92B+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "3.65M+",
+        "label": "Favorites"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "8.9K",
+        "label": "Live Players"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "2",
+        "label": "Official Chapters"
       }
     }
   },
@@ -785,26 +786,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for Rainbow Friends Chapter 3?",
+    "description": "Follow official news from Roy & Charcle and join the Rainbow Friends community for guides, theories, and updates.",
+    "joinCommunity": "Join the Community",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Rainbow Friends Chapter 3 Wiki",
+    "description": "Your hub for Rainbow Friends Chapter 3 release tracking, official news, trailers, characters, theories, and Chapter 1 & 2 survival guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "reddit": "Reddit",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxCommunity": "Roblox Community",
+    "robloxGame": "Play on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Rainbow Friends Chapter 3 Wiki. Not affiliated with Roy & Charcle or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
