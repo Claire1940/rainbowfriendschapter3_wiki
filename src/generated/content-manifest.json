@@ -2,8 +2,24 @@
   "en": {
     "guide": [
       {
+        "slug": "how-to-draw-rainbow-friends-chapter-3",
+        "file": "how-to-draw-rainbow-friends-chapter-3"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-age-rating",
+        "file": "rainbow-friends-chapter-3-age-rating"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-all-jumpscares",
+        "file": "rainbow-friends-chapter-3-all-jumpscares"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-beginner-guide",
         "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-fanmade",
+        "file": "rainbow-friends-chapter-3-fanmade"
       },
       {
         "slug": "rainbow-friends-chapter-3-gameplay",
@@ -18,12 +34,32 @@
         "file": "rainbow-friends-chapter-3-how-to-play"
       },
       {
+        "slug": "rainbow-friends-chapter-3-plushies",
+        "file": "rainbow-friends-chapter-3-plushies"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reddit",
+        "file": "rainbow-friends-chapter-3-reddit"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-roy-and-charcle",
+        "file": "rainbow-friends-chapter-3-roy-and-charcle"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-tier-list",
         "file": "rainbow-friends-chapter-3-tier-list"
       },
       {
+        "slug": "rainbow-friends-chapter-3-toys",
+        "file": "rainbow-friends-chapter-3-toys"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-walkthrough",
         "file": "rainbow-friends-chapter-3-walkthrough"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-youtube",
+        "file": "rainbow-friends-chapter-3-youtube"
       }
     ],
     "locations": [
@@ -54,12 +90,28 @@
         "file": "rainbow-friends-chapter-3-black"
       },
       {
+        "slug": "rainbow-friends-chapter-3-blue",
+        "file": "rainbow-friends-chapter-3-blue"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-brown",
+        "file": "rainbow-friends-chapter-3-brown"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-characters-names",
         "file": "rainbow-friends-chapter-3-characters-names"
       },
       {
+        "slug": "rainbow-friends-chapter-3-characters",
+        "file": "rainbow-friends-chapter-3-characters"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-cyan",
         "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-green",
+        "file": "rainbow-friends-chapter-3-green"
       },
       {
         "slug": "rainbow-friends-chapter-3-indigo",
@@ -70,15 +122,43 @@
         "file": "rainbow-friends-chapter-3-lime"
       },
       {
+        "slug": "rainbow-friends-chapter-3-magenta",
+        "file": "rainbow-friends-chapter-3-magenta"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-monsters",
         "file": "rainbow-friends-chapter-3-monsters"
       },
       {
+        "slug": "rainbow-friends-chapter-3-new-monsters",
+        "file": "rainbow-friends-chapter-3-new-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-orange",
+        "file": "rainbow-friends-chapter-3-orange"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-pink",
         "file": "rainbow-friends-chapter-3-pink"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-purple",
+        "file": "rainbow-friends-chapter-3-purple"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-white",
+        "file": "rainbow-friends-chapter-3-white"
       }
     ],
     "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-2026",
+        "file": "rainbow-friends-chapter-3-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-announcement",
+        "file": "rainbow-friends-chapter-3-announcement"
+      },
       {
         "slug": "rainbow-friends-chapter-3-june-14th",
         "file": "rainbow-friends-chapter-3-june-14th"
@@ -97,6 +177,10 @@
       }
     ],
     "status": [
+      {
+        "slug": "is-rainbow-friends-chapter-3-cancelled",
+        "file": "is-rainbow-friends-chapter-3-cancelled"
+      },
       {
         "slug": "rainbow-friends-chapter-3-beta-test",
         "file": "rainbow-friends-chapter-3-beta-test"
@@ -146,6 +230,10 @@
         "file": "rainbow-friends-chapter-3-gameplay-trailer"
       },
       {
+        "slug": "rainbow-friends-chapter-3-leaks",
+        "file": "rainbow-friends-chapter-3-leaks"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-official-trailer",
         "file": "rainbow-friends-chapter-3-official-trailer"
       },
@@ -160,14 +248,38 @@
       {
         "slug": "rainbow-friends-chapter-3-teaser-trailer",
         "file": "rainbow-friends-chapter-3-teaser-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer-release-date",
+        "file": "rainbow-friends-chapter-3-trailer-release-date"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer",
+        "file": "rainbow-friends-chapter-3-trailer"
       }
     ]
   },
   "es": {
     "guide": [
       {
+        "slug": "how-to-draw-rainbow-friends-chapter-3",
+        "file": "how-to-draw-rainbow-friends-chapter-3"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-age-rating",
+        "file": "rainbow-friends-chapter-3-age-rating"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-all-jumpscares",
+        "file": "rainbow-friends-chapter-3-all-jumpscares"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-beginner-guide",
         "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-fanmade",
+        "file": "rainbow-friends-chapter-3-fanmade"
       },
       {
         "slug": "rainbow-friends-chapter-3-gameplay",
@@ -182,12 +294,32 @@
         "file": "rainbow-friends-chapter-3-how-to-play"
       },
       {
+        "slug": "rainbow-friends-chapter-3-plushies",
+        "file": "rainbow-friends-chapter-3-plushies"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reddit",
+        "file": "rainbow-friends-chapter-3-reddit"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-roy-and-charcle",
+        "file": "rainbow-friends-chapter-3-roy-and-charcle"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-tier-list",
         "file": "rainbow-friends-chapter-3-tier-list"
       },
       {
+        "slug": "rainbow-friends-chapter-3-toys",
+        "file": "rainbow-friends-chapter-3-toys"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-walkthrough",
         "file": "rainbow-friends-chapter-3-walkthrough"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-youtube",
+        "file": "rainbow-friends-chapter-3-youtube"
       }
     ],
     "locations": [
@@ -218,12 +350,28 @@
         "file": "rainbow-friends-chapter-3-black"
       },
       {
+        "slug": "rainbow-friends-chapter-3-blue",
+        "file": "rainbow-friends-chapter-3-blue"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-brown",
+        "file": "rainbow-friends-chapter-3-brown"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-characters-names",
         "file": "rainbow-friends-chapter-3-characters-names"
       },
       {
+        "slug": "rainbow-friends-chapter-3-characters",
+        "file": "rainbow-friends-chapter-3-characters"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-cyan",
         "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-green",
+        "file": "rainbow-friends-chapter-3-green"
       },
       {
         "slug": "rainbow-friends-chapter-3-indigo",
@@ -234,15 +382,43 @@
         "file": "rainbow-friends-chapter-3-lime"
       },
       {
+        "slug": "rainbow-friends-chapter-3-magenta",
+        "file": "rainbow-friends-chapter-3-magenta"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-monsters",
         "file": "rainbow-friends-chapter-3-monsters"
       },
       {
+        "slug": "rainbow-friends-chapter-3-new-monsters",
+        "file": "rainbow-friends-chapter-3-new-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-orange",
+        "file": "rainbow-friends-chapter-3-orange"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-pink",
         "file": "rainbow-friends-chapter-3-pink"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-purple",
+        "file": "rainbow-friends-chapter-3-purple"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-white",
+        "file": "rainbow-friends-chapter-3-white"
       }
     ],
     "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-2026",
+        "file": "rainbow-friends-chapter-3-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-announcement",
+        "file": "rainbow-friends-chapter-3-announcement"
+      },
       {
         "slug": "rainbow-friends-chapter-3-june-14th",
         "file": "rainbow-friends-chapter-3-june-14th"
@@ -261,6 +437,10 @@
       }
     ],
     "status": [
+      {
+        "slug": "is-rainbow-friends-chapter-3-cancelled",
+        "file": "is-rainbow-friends-chapter-3-cancelled"
+      },
       {
         "slug": "rainbow-friends-chapter-3-beta-test",
         "file": "rainbow-friends-chapter-3-beta-test"
@@ -310,6 +490,10 @@
         "file": "rainbow-friends-chapter-3-gameplay-trailer"
       },
       {
+        "slug": "rainbow-friends-chapter-3-leaks",
+        "file": "rainbow-friends-chapter-3-leaks"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-official-trailer",
         "file": "rainbow-friends-chapter-3-official-trailer"
       },
@@ -324,14 +508,38 @@
       {
         "slug": "rainbow-friends-chapter-3-teaser-trailer",
         "file": "rainbow-friends-chapter-3-teaser-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer-release-date",
+        "file": "rainbow-friends-chapter-3-trailer-release-date"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer",
+        "file": "rainbow-friends-chapter-3-trailer"
       }
     ]
   },
   "pt": {
     "guide": [
       {
+        "slug": "how-to-draw-rainbow-friends-chapter-3",
+        "file": "how-to-draw-rainbow-friends-chapter-3"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-age-rating",
+        "file": "rainbow-friends-chapter-3-age-rating"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-all-jumpscares",
+        "file": "rainbow-friends-chapter-3-all-jumpscares"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-beginner-guide",
         "file": "rainbow-friends-chapter-3-beginner-guide"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-fanmade",
+        "file": "rainbow-friends-chapter-3-fanmade"
       },
       {
         "slug": "rainbow-friends-chapter-3-gameplay",
@@ -346,12 +554,32 @@
         "file": "rainbow-friends-chapter-3-how-to-play"
       },
       {
+        "slug": "rainbow-friends-chapter-3-plushies",
+        "file": "rainbow-friends-chapter-3-plushies"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-reddit",
+        "file": "rainbow-friends-chapter-3-reddit"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-roy-and-charcle",
+        "file": "rainbow-friends-chapter-3-roy-and-charcle"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-tier-list",
         "file": "rainbow-friends-chapter-3-tier-list"
       },
       {
+        "slug": "rainbow-friends-chapter-3-toys",
+        "file": "rainbow-friends-chapter-3-toys"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-walkthrough",
         "file": "rainbow-friends-chapter-3-walkthrough"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-youtube",
+        "file": "rainbow-friends-chapter-3-youtube"
       }
     ],
     "locations": [
@@ -382,12 +610,28 @@
         "file": "rainbow-friends-chapter-3-black"
       },
       {
+        "slug": "rainbow-friends-chapter-3-blue",
+        "file": "rainbow-friends-chapter-3-blue"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-brown",
+        "file": "rainbow-friends-chapter-3-brown"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-characters-names",
         "file": "rainbow-friends-chapter-3-characters-names"
       },
       {
+        "slug": "rainbow-friends-chapter-3-characters",
+        "file": "rainbow-friends-chapter-3-characters"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-cyan",
         "file": "rainbow-friends-chapter-3-cyan"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-green",
+        "file": "rainbow-friends-chapter-3-green"
       },
       {
         "slug": "rainbow-friends-chapter-3-indigo",
@@ -398,15 +642,43 @@
         "file": "rainbow-friends-chapter-3-lime"
       },
       {
+        "slug": "rainbow-friends-chapter-3-magenta",
+        "file": "rainbow-friends-chapter-3-magenta"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-monsters",
         "file": "rainbow-friends-chapter-3-monsters"
       },
       {
+        "slug": "rainbow-friends-chapter-3-new-monsters",
+        "file": "rainbow-friends-chapter-3-new-monsters"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-orange",
+        "file": "rainbow-friends-chapter-3-orange"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-pink",
         "file": "rainbow-friends-chapter-3-pink"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-purple",
+        "file": "rainbow-friends-chapter-3-purple"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-white",
+        "file": "rainbow-friends-chapter-3-white"
       }
     ],
     "release": [
+      {
+        "slug": "rainbow-friends-chapter-3-2026",
+        "file": "rainbow-friends-chapter-3-2026"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-announcement",
+        "file": "rainbow-friends-chapter-3-announcement"
+      },
       {
         "slug": "rainbow-friends-chapter-3-june-14th",
         "file": "rainbow-friends-chapter-3-june-14th"
@@ -425,6 +697,10 @@
       }
     ],
     "status": [
+      {
+        "slug": "is-rainbow-friends-chapter-3-cancelled",
+        "file": "is-rainbow-friends-chapter-3-cancelled"
+      },
       {
         "slug": "rainbow-friends-chapter-3-beta-test",
         "file": "rainbow-friends-chapter-3-beta-test"
@@ -474,6 +750,10 @@
         "file": "rainbow-friends-chapter-3-gameplay-trailer"
       },
       {
+        "slug": "rainbow-friends-chapter-3-leaks",
+        "file": "rainbow-friends-chapter-3-leaks"
+      },
+      {
         "slug": "rainbow-friends-chapter-3-official-trailer",
         "file": "rainbow-friends-chapter-3-official-trailer"
       },
@@ -488,6 +768,14 @@
       {
         "slug": "rainbow-friends-chapter-3-teaser-trailer",
         "file": "rainbow-friends-chapter-3-teaser-trailer"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer-release-date",
+        "file": "rainbow-friends-chapter-3-trailer-release-date"
+      },
+      {
+        "slug": "rainbow-friends-chapter-3-trailer",
+        "file": "rainbow-friends-chapter-3-trailer"
       }
     ]
   }

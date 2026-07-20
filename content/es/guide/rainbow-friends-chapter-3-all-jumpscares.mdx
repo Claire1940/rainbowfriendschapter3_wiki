@@ -1,0 +1,187 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Todos los Jumpscares de Rainbow Friends Capítulo 3: Guía de Supervivencia y Animación 2026",
+  description: "Descubre cada jumpscare en Rainbow Friends Capítulo 3. Aprende los comportamientos de los monstruos, detalles de animación para Blue, Green y Cyan, y tácticas expertas de supervivencia.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Chapter+3+Jumpscares+Guide",
+  date: "2026-07-21",
+  author: "Equipo de Wiki de Rainbow Friends Capítulo 3",
+  keywords: "rainbow friends capítulo 3, todos los jumpscares, guía de supervivencia, animaciones de monstruos, blue, green, cyan"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Todos los jumpscares de Rainbow Friends Capítulo 3** incluyen animaciones únicas para cada monstruo, con una duración que va de 1 a 4 segundos.
+- **Blue y Cyan** utilizan ataques de embestida agresivos, mientras que **Green** presenta las animaciones de consumo más largas y complejas.
+- **Las vistas en primera persona** se centran en ataques directos a la cabeza del jugador, mientras que **las vistas en tercera persona** a menudo muestran al jugador siendo arrastrado o aplastado.
+- **La supervivencia requiere** dominar mecánicas de contraataque específicas como la Caja, evitar el rastro de Orange y mantenerse fuera del alcance de Green.
+- **Las nuevas amenazas del Capítulo 3** han introducido tiempos de reacción más rápidos y secuencias de jumpscare de múltiples etapas.
+</Callout>
+
+<Section icon={Map} title="Mecánicas Principales de los Jumpscares en el Capítulo 3">
+
+Comprender **todos los jumpscares de Rainbow Friends Capítulo 3** requiere profundizar en las mecánicas subyacentes del juego. Cuando un jugador es atrapado por un monstruo, el juego activa una de varias animaciones específicas basadas en la perspectiva del personaje y el monstruo involucrado. Tras la animación, aparece una pantalla de muerte roja con el texto "Has muerto...", y una notificación informa a los demás jugadores que has sido "encontrado".
+
+En la actualización de 2026 del Capítulo 3, estas mecánicas se han refinado para ser más inmersivas. Si todo un equipo es eliminado, el juego cambia la vista restante a "Camera01" cerca del punto de aparición, señalando una derrota total. Los jumpscares no son solo para mostrar; sirven como un final definitivo para la partida de un jugador, lo que requiere un reinicio completo o una reaparición dependiendo del modo de juego.
+
+| Mecánica | Descripción | Impacto en el Juego |
+| :--- | :--- | :--- |
+| **Evento Activador** | Colisión con la hitbox de un monstruo | Transición inmediata a la animación |
+| **Pantalla de Muerte** | Fondo rojo con el texto "Has muerto..." | Señala la eliminación del jugador |
+| **Notificación Global** | Mensaje "[NOMBRE DE USUARIO] FUE ENCONTRADO" | Alerta a los compañeros de equipo de una muerte |
+| **Bloqueo de Cámara** | Perspectiva fija durante la animación | Evita el control o escape del jugador |
+| **Vista Post-Muerte** | Camera01 cerca de la aparición | Solo visible si todos los jugadores mueren |
+
+<Callout type="tip" title="Consejo Pro">
+Si te encuentras acorralado y sin escape, puedes reaparecer a tu personaje a través del menú de ajustes para reiniciar rápidamente, aunque esto sigue contando como una muerte en la mayoría de los modos competitivos.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Jumpscares de los Monstruos Principales: Blue, Green y Orange">
+
+El trío clásico regresa en el Capítulo 3 con sus secuencias terroríficas características. Cada monstruo tiene un estilo distinto que refleja su personalidad y atributos físicos. **Blue** sigue siendo la amenaza más frecuente, mientras que **Green** proporciona la experiencia más visceral debido a su agresión compensada por su ceguera.
+
+**Detalles del Jumpscare de Blue:**
+Blue es la cara de la franquicia, y su jumpscare es sencillo pero efectivo. En primera persona, Blue arremete directamente contra la cabeza del jugador, mordiendo para asegurar la muerte. La perspectiva en tercera persona es más brutal, mostrando a Blue agarrando al jugador y arrancándole violentamente la cabeza. Esta dualidad lo convierte en una fuente constante de pavor para los nuevos jugadores.
+
+**Animaciones Extendidas de Green:**
+Green ostenta el récord de la duración de jumpscare más larga, con aproximadamente 4 segundos. Debido a que Green es ciego, sus muertes se sienten más metódicas. Agarrará al jugador y le morderá la cabeza varias veces. Curiosamente, Green es el único monstruo con dos animaciones distintas en tercera persona: o bien consume lentamente al jugador por encima de su cabeza o lo golpea repetidamente contra el suelo.
+
+| Monstruo | Estilo 1ª Persona | Estilo 3ª Persona | Duración |
+| :--- | :--- | :--- | :--- |
+| **Blue** | Embestida y mordisco en la cabeza | Extracción de cabeza | 2.5 Segundos |
+| **Green** | Múltiples mordiscos | Consumo o Aplastamiento | 4.0 Segundos |
+| **Orange** | Mordiscos rápidos en embestida | Sacudida violenta | 2.0 Segundos |
+
+<Callout type="warning" title="Advertencia">
+El jumpscare de Green a veces puede fallar si te mata mientras estás de cara a una pared, haciendo que la animación atraviese el entorno. Intenta siempre permanecer en áreas abiertas cuando Green esté cerca.
+</Callout>
+
+<CardGrid cols={3}>
+  <Card title="Blue">
+    - **Agresión**: Alta
+    - **Detección**: Línea de visión
+    - **Contraataque**: Usa la Caja inmediatamente
+  </Card>
+  <Card title="Green">
+    - **Agresión**: Pasivo-Agresiva
+    - **Detección**: Tacto/Sonido
+    - **Contraataque**: Mantén la distancia, no lo toques
+  </Card>
+  <Card title="Orange">
+    - **Agresión**: Programada/Rápida
+    - **Detección**: Rastro naranja
+    - **Contraataque**: Mantente fuera del camino naranja
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Shield} title="Amenazas Avanzadas: Purple, Yellow y Cyan">
+
+A medida que los jugadores avanzan hacia las etapas finales del Capítulo 3, la complejidad de **todos los jumpscares de Rainbow Friends Capítulo 3** aumenta. Los monstruos introducidos en el Capítulo 2 y expandidos en el Capítulo 3, como Cyan y Yellow, presentan animaciones mucho más rápidas y dinámicas.
+
+**Letalidad de Cyan:**
+Cyan es actualmente el asesino más rápido del juego, con un jumpscare que dura solo 1 segundo. Su animación consiste en una rápida embestida y mordisco en primera persona. Sin embargo, su animación en tercera persona es un espectáculo: muerde al jugador, lo lanza al aire, lo atrapa con la boca y lo sacude hasta que la pantalla se desvanece a rojo.
+
+**Yellow y Purple:**
+Yellow utiliza sus alas para añadir una sensación de verticalidad a su ataque, arremetiendo y picoteando al jugador hasta matarlo. Purple sigue siendo una amenaza sigilosa, a menudo arrastrando a los jugadores a los conductos o a la oscuridad. En tercera persona, la muerte causada por Purple es casi invisible: los otros jugadores simplemente ven a su compañero siendo arrastrado hacia las sombras, lo que añade una capa de horror psicológico al juego.
+
+| Monstruo | Ataque Principal | Destacado de Animación | Dificultad |
+| :--- | :--- | :--- | :--- |
+| **Purple** | Agarre de conducto | Arrastrado a la oscuridad | Difícil |
+| **Yellow** | Embestida aérea | Aleteo y picoteo | Media |
+| **Cyan** | Mordisco rápido | Lanzamiento al aire y captura | Muy Difícil |
+
+<Callout type="info" title="Curiosidad de Animación">
+El jumpscare de 1 segundo de Cyan está diseñado para mantener el ritmo alto del juego, convirtiéndola en uno de los monstruos más peligrosos de encontrar en pasillos estrechos durante las misiones del Capítulo 3.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Cómo Sobrevivir a Cada Encuentro de Jumpscare">
+
+Sobrevivir a **todos los jumpscares de Rainbow Friends Capítulo 3** no es solo cuestión de suerte; requiere un enfoque sistemático para la IA única de cada monstruo. Siguiendo estos pasos, puedes reducir significativamente tu recuento de muertes y progresar a través de las instalaciones.
+
+<Steps>
+  <Step num="1" title="Identifica las pistas sonoras">
+    Cada monstruo tiene un sonido de pasos o vocal único. Blue tiene pisadas pesadas, mientras que Green hace un sonido de chapoteo. Aprender estos sonidos te permite reaccionar incluso antes de que aparezcan en pantalla.
+  </Step>
+  <Step num="2" title="Domina la mecánica de la Caja">
+    La Caja es tu defensa principal contra Blue y Orange. Sin embargo, recuerda que Green aún puede matarte si lo tocas mientras estás en la caja, y Cyan te detectará si te ve moviéndote hacia la caja.
+  </Step>
+  <Step num="3" title="Conocimiento del mapa">
+    Mantente alejado de los rastros naranjas a toda costa. Cuando lidies con Purple, vigila el agua o las aberturas de los conductos en busca de ojos brillantes. En el Capítulo 3, el conocimiento del mapa es el 70% de la supervivencia.
+  </Step>
+  <Step num="4" title="Coordinación de equipo">
+    Usa las notificaciones globales de "Encontrado" para rastrear los movimientos de los monstruos. Si un compañero muere en el teatro, sabes que ese monstruo específico está ocupado actualmente con una animación de jumpscare, lo que te da una ventana de 2 a 4 segundos para moverte.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Estrategia de Supervivencia">
+Mantén siempre un mapa mental de los lugares de escondite más cercanos. En el Capítulo 3, el diseño es más complejo, pero las reglas de seguridad para Blue y Orange siguen siendo consistentes.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Animaciones de Jumpscare: Antiguas vs. Nuevas">
+
+Uno de los aspectos más interesantes de **todos los jumpscares de Rainbow Friends Capítulo 3** es la evolución de las animaciones mismas. Las primeras versiones del juego (de mediados de 2022) presentaban marcadores de posición mucho más simples. Por ejemplo, el jumpscare original de Blue no tenía ninguna animación; simplemente se paraba frente al jugador.
+
+En 2026, los desarrolladores han añadido "Efectos de Sangre" y animaciones esqueléticas más fluidas para que los sustos se sientan más impactantes. La comparación entre las "viejas" vistas en primera persona y las versiones "nuevas" actuales muestra un salto significativo en la calidad de producción, con más énfasis en la interacción física entre el monstruo y el modelo del jugador.
+
+| Versión | Calidad de Animación | Efectos Visuales | Realismo |
+| :--- | :--- | :--- | :--- |
+| **Legado (2022)** | Estática/Básica | Mínimos | Bajo |
+| **Capítulo 2** | Fluida/Dinámica | Partículas añadidas | Medio |
+| **Capítulo 3 (2026)** | Alta fidelidad | Sangre y físicas | Alto |
+
+<Callout type="tip" title="¿Sabías que?">
+Ver morir a otro jugador muestra una animación diferente a la que ves en la vista de muerte en primera persona. Esta fue una elección deliberada de los desarrolladores para hacer el juego más interesante para los espectadores.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Conclusión y Lista de Verificación">
+
+Dominar **todos los jumpscares de Rainbow Friends Capítulo 3** es la marca de un jugador veterano. Al comprender que Green tiene la animación más larga y Cyan la más corta, puedes cronometrar tus movimientos y rescates de manera más efectiva. Ya sea que estés evitando la embestida de Blue o manteniéndote alejado del lanzamiento aéreo de Cyan, el conocimiento es tu mejor arma en las instalaciones de Hemlock Woods.
+
+<Checklist
+  id="jumpscare-mastery"
+  title="Lista de Verificación para Sobrevivir a Jumpscares:"
+  items={[
+    "Memorizado la duración de la animación de 4 segundos de Green",
+    "Aprendido a distinguir entre los sonidos de pasos de Blue y Orange",
+    "Evadido con éxito a Cyan usando el método de 'Detenerse y Esconderse'",
+    "Identificado todas las ubicaciones de conductos donde reside Purple",
+    "Completado una noche entera sin activar un solo jumpscare"
+  ]}
+/>
+
+<FAQ items={[
+  {
+    question: "¿Qué monstruo tiene el jumpscare más largo en Rainbow Friends Capítulo 3?",
+    answer: "Green tiene la animación de jumpscare más larga, con una duración aproximada de 4 segundos. Durante este tiempo, muerde al jugador varias veces o lo golpea contra el suelo."
+  },
+  {
+    question: "¿Se puede evitar un jumpscare una vez que ha comenzado la animación?",
+    answer: "No, una vez que se activa la animación del jumpscare, los controles del jugador se bloquean y la secuencia de muerte es inevitable. La única forma de 'escapar' es evitar por completo la hitbox del monstruo."
+  },
+  {
+    question: "¿Los jumpscares se ven diferentes para otros jugadores?",
+    answer: "Sí, ver morir a otro jugador (vista en tercera persona) a menudo presenta animaciones diferentes a la vista en primera persona que ve el jugador que muere. Por ejemplo, Cyan lanza a los jugadores al aire en tercera persona, pero simplemente arremete en primera persona."
+  },
+  {
+    question: "¿Cuál es el jumpscare más rápido del juego?",
+    answer: "Cyan ostenta actualmente el récord del jumpscare más rápido, que dura solo 1 segundo. Esto la hace extremadamente peligrosa en persecuciones a alta velocidad."
+  }
+]} />
+
+</Section>
